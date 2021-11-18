@@ -1,0 +1,5 @@
+https://smartplug-edr-default-rtdb.europe-west1.firebasedatabase.app/
+
+Web API Key: AIzaSyD2Cft1xT-jUjqL05XDrDc-VJbjM4GwnM0
+
+Database Scret: RpRUiHTZX0jrnJ1o9wxEtVWs1l0fxxSpKIYZIXW9
